@@ -38,6 +38,8 @@ The model was trained and validated using the NTUA Parkinson Dataset:
    ```bash
    git clone https://github.com/your-username/Parkinsons-MRI-Detection.git
 2. Navigate to the project directory:
-cd Parkinsons-MRI-Detection
+   ```bash
+   cd Parkinsons-MRI-Detection
 3. Run the Jupyter Notebook:
-jupyter notebook parkinsson_detection.ipynb
+   ```bash
+   jupyter notebook parkinsson_detection.ipynb
