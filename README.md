@@ -3,7 +3,7 @@
 This repository contains the implementation of a hybrid convolutional neural network (CNN) model with quantum-inspired layers designed for the early diagnosis of Parkinson's disease using MRI images. The project showcases an innovative approach to medical imaging analysis, achieving high accuracy and demonstrating potential clinical applications.
 
 ## Features
-- Utilizes MRI scans for accurate classification of Parkinson's disease.
+- Utilizes MRI scans for accurate classification as PD or NON PD of Parkinson's disease.
 - Incorporates a quantum-inspired fully connected layer to enhance feature extraction and model performance.
 - Achieves **97.16% accuracy on the validation set**.
 
